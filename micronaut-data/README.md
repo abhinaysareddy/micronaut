@@ -1,4 +1,4 @@
-## Micronaut Data example
+## Micronaut Data JPA example
 
 Simple micronaut rest services demonstrating database connection to mariadb.
 
