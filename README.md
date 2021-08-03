@@ -26,7 +26,7 @@
 |@Scope("websocket")||
 |    | @Infrastructure |
 |    | @ThreadLocal |
-| | @Refreshable|
+| @RefreshScope | @Refreshable|
 
 # JPA
 <table border="1px;">
