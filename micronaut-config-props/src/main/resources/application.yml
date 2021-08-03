@@ -1,0 +1,14 @@
+micronaut:
+
+  application:
+    name: micronautConfigProps
+app:
+  description: description
+  name: test
+  level1:
+    key1: value1
+    key2: value2
+    servers:
+      - demo1.test.com
+      - demo2.test.com
+      - demo3.test.com
